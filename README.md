@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Himanshu Singh  
 
-### 🚀 AI/ML Enthusiast | 💻 Developer | 🎯 Internship Seeker  
+### 🚀 AI/ML Enthusiast | 💻 Full Stack Developer 
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
@@ -42,7 +42,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
 ## 📬 Contact  
-• 📧 Email: your-email@example.com  
-• 💼 LinkedIn: https://linkedin.com/in/your-profile  
+• 📧 Email: himanshusingh.bit9995@gmail.com
+• 💼 LinkedIn: "https://linkedin.com/in/himanshu-singh"  
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
