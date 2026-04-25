@@ -14,7 +14,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
 ## 🧠 Skills  
-• Programming: Python, JavaScript, C++  
+• Programming: Python, java, JavaScript, C++  
 • Web: HTML, CSS, React  
 • Tools: Git, GitHub, VS Code  
 
