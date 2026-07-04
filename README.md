@@ -1,177 +1,74 @@
-<h1 align="center">Hi 👋, I'm Himanshu Kumar Singh</h1>
 
-<h3 align="center">
-Full Stack Developer • AI/ML Enthusiast • Problem Solver
-</h3>
+# Hi 👋 I'm Himanshu Singh
 
-<p align="center">
-Building scalable web applications, exploring Artificial Intelligence, and solving real-world problems through technology.
-</p>
+<div align="center">
+
+### 💻 Full Stack Developer • 🤖 AI/ML Enthusiast • ☕ Java Developer
+
+Building scalable web applications, modern user experiences, and intelligent software solutions.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%2F+ML+Enthusiast;Java+Developer;Problem+Solver;Always+Learning+Always+Building" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science Engineering Student
-
-💻 Passionate about Full Stack Development & AI/ML
-
-🌱 Currently learning Machine Learning, System Design and Advanced DSA
-
-⚡ Love building real-world applications
-
-🎯 Goal 2026: **Secure a Software Development / AI Engineer Job**
-
-📍 India
+- 🎓 B.Tech CSE Student
+- 💻 Full Stack Developer
+- 🤖 AI / ML Enthusiast
+- 🌱 Learning System Design, DSA & Cloud
+- 🎯 Goal: Secure an SDE / AI Engineer role
 
 ---
 
-## 💼 Tech Stack
+## 🛠 Tech Stack
 
-### Programming Languages
+**Languages:** Java • Python • JavaScript • C++
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
-</p>
+**Frontend:** HTML • CSS • React • Tailwind • Vite
 
-### Frontend
+**Backend:** Node.js • Express.js
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
+**Database:** MongoDB • MySQL
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,firebase" />
-</p>
+**Tools:** Git • GitHub • VS Code • Postman • Vercel
 
 ---
 
-# 🚀 Featured Projects
+## 🌟 Featured Projects
 
-### 💰 Expense Tracker
-
-A modern React-based Expense Tracker with responsive UI and analytics.
-
----
-
-### 🏢 WorkZen
-
-Smart Workplace Management Platform built using MERN Stack.
-
----
-
-### 🚦 Traffic Management System
-
-Designed to optimize traffic flow using intelligent algorithms.
+- 🏏 GullyScore
+- 🛒 ShopSphere
+- 📝 BlogSphere
+- 📋 TaskFlow
+- 🔥 FireSafety Pro
+- 💪 Elevate Fitness Lab
+- 🌐 Portfolio
+- 💰 Expense Tracker
+- 🚦 Smart Traffic System
+- 🌍 Disaster Response AI
 
 ---
 
-### 🤖 AI/ML Projects
+## 📈 Current Focus
 
-Learning and implementing Machine Learning algorithms using Python.
-
----
-
-# 🌱 Currently Learning
-
+- Production-ready MERN Applications
 - Machine Learning
-- Deep Learning
-- Data Structures & Algorithms
+- Backend Engineering
 - System Design
-- MERN Stack
-- Cloud Fundamentals
+- DSA
+- Open Source
 
 ---
 
-# 📈 GitHub Stats
+## 📫 Connect
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hima9shusingh&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hima9shusingh&theme=tokyonight"/>
-
-</p>
+- 📧 himanshusingh.bit9995@gmail.com
+- 💼 https://linkedin.com/in/himanshu-singh
+- 💻 https://github.com/hima9shusingh
 
 ---
 
-# 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hima9shusingh&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hima9shusingh&theme=algolia&row=2&column=4"/>
-
-</p>
-
----
-
-# 📚 Current Focus
-
-✅ Building scalable Full Stack Applications
-
-✅ Learning AI & Machine Learning
-
-✅ Solving DSA Problems
-
-✅ Contributing to Open Source
-
-✅ Improving Backend Development
-
----
-
-# 📫 Connect With Me
-
-<p>
-
-📧 Email:
-<b>
-himanshusingh.bit9995@gmail.com
-</b>
-
-</p>
-
-<p>
-
-💼 LinkedIn
-
-https://linkedin.com/in/himanshu-singh
-
-</p>
-
----
-
-# 💡 Quote
-
-> "Code. Learn. Build. Repeat."
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=hima9shusingh&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
+> Learn → Build → Improve → Repeat
