@@ -15,6 +15,8 @@
 
 ## 🧑‍💻 About Me
 
+> "Turning ideas into scalable, real-world software — one commit at a time."
+
 ```yaml
 name: Himanshu Singh
 role: Full Stack Developer & AI/ML Enthusiast
@@ -24,50 +26,76 @@ goal: Secure an SDE / AI Engineer role at a product-based company
 fun_fact: "I debug faster with chai in hand ☕"
 ```
 
-- 🎓 B.Tech CSE Student, passionate about building real-world products
-- 💻 Full Stack Developer — comfortable across frontend, backend & databases
-- 🤖 AI/ML Enthusiast, exploring intelligent, data-driven applications
-- 🌱 Currently sharpening System Design, DSA & Cloud fundamentals
-- 🎯 Goal: Land an SDE / AI Engineer role and keep shipping impactful projects
-- ⚡ Fun fact: I enjoy converting messy ideas into clean, working code
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 What I Do**
+- 🎓 B.Tech CSE Student building real-world products
+- 💻 Full Stack Developer across frontend, backend & DBs
+- 🤖 AI/ML Enthusiast exploring intelligent applications
+- 🌱 Sharpening System Design, DSA & Cloud fundamentals
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ Quick Facts**
+- 📍 Actively building & shipping side projects
+- 🧠 9+ real-world projects across MERN & AI/ML
+- 🎯 Goal: SDE / AI Engineer role
+- 🤝 Open to internships, freelance & collabs
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table width="100%">
+<tr><td>
 
 **Languages**
-<br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<br><br>
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
+</td></tr>
+<tr><td>
 
 **Frontend**
-<br>
+<br><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+
+</td></tr>
+<tr><td>
 
 **Backend & Database**
-<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</td></tr>
+<tr><td>
 
 **Tools & Platforms**
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-</div>
+</td></tr>
+</table>
 
 <br>
 
@@ -98,80 +126,100 @@ fun_fact: "I debug faster with chai in hand ☕"
 <tr>
 <td width="50%">
 
-### 🏏 [GullyScore](https://github.com/hima9shusingh)
+### 🏏 GullyScore
 Real-time street-cricket scoring platform with live match updates and player stats.
-<br>`MongoDB` `Express` `React` `Node.js`
+<br><br>`MongoDB` `Express` `React` `Node.js`
+<br>
+<a href="https://github.com/hima9shusingh"><img src="https://img.shields.io/badge/View_Repo-6366F1?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%">
 
-### 🛒 [ShopSphere](https://github.com/hima9shusingh)
+### 🛒 ShopSphere
 Full-featured e-commerce platform with cart, payments & admin dashboard.
-<br>`MongoDB` `Express` `React` `Node.js`
+<br><br>`MongoDB` `Express` `React` `Node.js`
+<br>
+<a href="https://github.com/hima9shusingh"><img src="https://img.shields.io/badge/View_Repo-6366F1?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📝 [BlogSphere](https://github.com/hima9shusingh)
+### 📝 BlogSphere
 Modern blogging platform with rich text editor and user authentication.
-<br>`MERN Stack`
+<br><br>`MERN Stack`
+<br>
+<a href="https://github.com/hima9shusingh"><img src="https://img.shields.io/badge/View_Repo-6366F1?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%">
 
-### ✅ [TaskFlow](https://github.com/hima9shusingh)
+### ✅ TaskFlow
 Productivity & task management app with boards and reminders.
-<br>`MERN Stack`
+<br><br>`MERN Stack`
+<br>
+<a href="https://github.com/hima9shusingh"><img src="https://img.shields.io/badge/View_Repo-6366F1?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🔥 [FireSafety Pro](https://github.com/hima9shusingh)
+### 🔥 FireSafety Pro
 Fire safety monitoring & alert system for smart buildings.
-<br>`MERN Stack` `IoT Concepts`
+<br><br>`MERN Stack` `IoT Concepts`
+<br>
+<a href="https://github.com/hima9shusingh"><img src="https://img.shields.io/badge/View_Repo-6366F1?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%">
 
-### 💪 [Elevate Fitness Lab](https://github.com/hima9shusingh)
+### 💪 Elevate Fitness Lab
 Fitness tracking web app with workout & progress logging.
-<br>`MERN Stack`
+<br><br>`MERN Stack`
+<br>
+<a href="https://github.com/hima9shusingh"><img src="https://img.shields.io/badge/View_Repo-6366F1?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💰 [Expense Tracker](https://github.com/hima9shusingh)
+### 💰 Expense Tracker
 Personal finance manager to track income, expenses & budgets.
-<br>`MERN Stack`
+<br><br>`MERN Stack`
+<br>
+<a href="https://github.com/hima9shusingh"><img src="https://img.shields.io/badge/View_Repo-6366F1?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%">
 
-### 🌐 [Portfolio](https://github.com/hima9shusingh)
+### 🌐 Portfolio
 Personal portfolio website showcasing projects & skills.
-<br>`React` `Tailwind CSS`
+<br><br>`React` `Tailwind CSS`
+<br>
+<a href="https://github.com/hima9shusingh"><img src="https://img.shields.io/badge/View_Repo-6366F1?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🚦 [Smart Traffic System](https://github.com/hima9shusingh)
+### 🚦 Smart Traffic System
 AI-based traffic signal optimization to reduce congestion.
-<br>`Python` `AI/ML`
+<br><br>`Python` `AI/ML`
+<br>
+<a href="https://github.com/hima9shusingh"><img src="https://img.shields.io/badge/View_Repo-6366F1?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%">
 
-### 🌍 [Disaster Response AI](https://github.com/hima9shusingh)
+### 🌍 Disaster Response AI
 AI-powered system to assist faster disaster response decisions.
-<br>`Python` `AI/ML`
+<br><br>`Python` `AI/ML`
+<br>
+<a href="https://github.com/hima9shusingh"><img src="https://img.shields.io/badge/View_Repo-6366F1?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
